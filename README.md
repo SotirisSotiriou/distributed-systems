@@ -1,1 +1,1 @@
-Distributed-Systems
+### Projects for course "Distributed Systems"
