@@ -1,0 +1,9 @@
+C:\Users\sotir\Documents\UoM\Distributed Systems\ATM_Apache_Thrift_CSharp_Client_Java_Server_MySQL\ATMClient\ATMClient\bin\Debug\ATMClient.exe.config
+C:\Users\sotir\Documents\UoM\Distributed Systems\ATM_Apache_Thrift_CSharp_Client_Java_Server_MySQL\ATMClient\ATMClient\bin\Debug\ATMClient.exe
+C:\Users\sotir\Documents\UoM\Distributed Systems\ATM_Apache_Thrift_CSharp_Client_Java_Server_MySQL\ATMClient\ATMClient\bin\Debug\ATMClient.pdb
+C:\Users\sotir\Documents\UoM\Distributed Systems\ATM_Apache_Thrift_CSharp_Client_Java_Server_MySQL\ATMClient\ATMClient\bin\Debug\Thrift.dll
+C:\Users\sotir\Documents\UoM\Distributed Systems\ATM_Apache_Thrift_CSharp_Client_Java_Server_MySQL\ATMClient\ATMClient\obj\Debug\ATMClient.csproj.AssemblyReference.cache
+C:\Users\sotir\Documents\UoM\Distributed Systems\ATM_Apache_Thrift_CSharp_Client_Java_Server_MySQL\ATMClient\ATMClient\obj\Debug\ATMClient.csproj.CoreCompileInputs.cache
+C:\Users\sotir\Documents\UoM\Distributed Systems\ATM_Apache_Thrift_CSharp_Client_Java_Server_MySQL\ATMClient\ATMClient\obj\Debug\ATMClient.csproj.CopyComplete
+C:\Users\sotir\Documents\UoM\Distributed Systems\ATM_Apache_Thrift_CSharp_Client_Java_Server_MySQL\ATMClient\ATMClient\obj\Debug\ATMClient.exe
+C:\Users\sotir\Documents\UoM\Distributed Systems\ATM_Apache_Thrift_CSharp_Client_Java_Server_MySQL\ATMClient\ATMClient\obj\Debug\ATMClient.pdb
